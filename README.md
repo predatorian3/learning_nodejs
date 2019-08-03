@@ -14,14 +14,15 @@ TODO: Write this.
 TODO: Write this.
 
 ```bash
-# Show this.
+npm install
+npm run start
 ```
 
 ## Testing
 
 ```bash
 npm install
-npm test
+npm run test
 ```
 
 ## Testing Resources
@@ -31,4 +32,16 @@ npm test
 
 ## References
 
-The libraries, or NPM packages uses were fround at [NPM JS.org](https://npmjs.org).
+The libraries, or NPM packages uses were fround at
+[NPM JS.org](https://npmjs.org).
+
+[NodeJS](https://nodejs.org) is where the runtime and documentation is held.
+Mostly this is API related, not specifically the language. The language is
+JavaScirpt, which can be learned anywhere. Then after that, import your module
+into a variable and call as usual.
+
+Learning more about NodeJS and JavaScript at
+[NodeSchool.io](https://nodeschool.io) is a great help as well. 
+
+Then just mostly Google searching around.
+
